@@ -1,4 +1,4 @@
-# Itunes
+# Itunes Movie Search by using Angular 6 and Bootstrap deployed on Firebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
